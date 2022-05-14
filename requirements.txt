@@ -1,2 +1,4 @@
-seaborn
-altair
+streamlit
+pandas
+plotly.express
+statsmodels.api
