@@ -1,4 +1,15 @@
 streamlit
+requests
+json
 pandas
-plotly.express
-
+plotly
+geopandas
+numpy
+matplotlib
+networkx
+sqlite3
+re
+bs4
+sklearn
+statsmodels
+bokeh==2.4.1
