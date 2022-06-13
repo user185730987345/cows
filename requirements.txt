@@ -4,3 +4,10 @@ json5
 plotly==5.8.0
 statsmodels==0.12.2
 streamlit==1.9.0
+requests
+pandas
+numpy
+matplotlib
+networkx
+bs4
+sklearn
