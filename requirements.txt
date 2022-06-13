@@ -6,7 +6,6 @@ geopandas
 numpy
 matplotlib
 networkx
-sqlite3
 re
 bs4
 sklearn
